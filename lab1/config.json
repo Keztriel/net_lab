@@ -1,0 +1,9 @@
+{
+    "stations": {
+        "A": "GOD",
+        "B": "CAT",
+        "C": "HAM",
+        "D": "SUN"
+    },
+    "bit_size": 8
+}
